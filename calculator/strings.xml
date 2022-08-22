@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="t1">Enter first no</string>
+    <string name="t2">Enter second no</string>
+    <string name="t3"> </string>
+    <string name="b1">ADD</string>
+    <string name="b2">SUB</string>
+    <string name="b3">MUL</string>
+    <string name="b4">DIV</string>
+</resources>
